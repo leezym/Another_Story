@@ -1,0 +1,1879 @@
+fileFormatVersion: 2
+guid: 0452fbbf9d2173c4fb3add2f6d7c76fe
+timeCreated: 1477841188
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botones transparentes y presionados-01_0
+    21300002: botones transparentes y presionados-01_1
+    21300004: botones transparentes y presionados-01_2
+    21300006: botones transparentes y presionados-01_3
+    21300008: botones transparentes y presionados-01_4
+    21300010: botones transparentes y presionados-01_5
+    21300012: botones transparentes y presionados-01_6
+    21300014: botones transparentes y presionados-01_7
+    21300016: botones transparentes y presionados-01_8
+    21300018: botones transparentes y presionados-01_9
+    21300020: botones transparentes y presionados-01_10
+    21300022: botones transparentes y presionados-01_11
+    21300024: botones transparentes y presionados-01_12
+    21300026: botones transparentes y presionados-01_13
+    21300028: botones transparentes y presionados-01_14
+    21300030: botones transparentes y presionados-01_15
+    21300032: botones transparentes y presionados-01_16
+    21300034: botones transparentes y presionados-01_17
+    21300036: botones transparentes y presionados-01_18
+    21300038: botones transparentes y presionados-01_19
+    21300040: botones transparentes y presionados-01_20
+    21300042: botones transparentes y presionados-01_21
+    21300044: botones transparentes y presionados-01_22
+    21300046: botones transparentes y presionados-01_23
+    21300048: botones transparentes y presionados-01_24
+    21300050: botones transparentes y presionados-01_25
+    21300052: botones transparentes y presionados-01_26
+    21300054: botones transparentes y presionados-01_27
+    21300056: botones transparentes y presionados-01_28
+    21300058: botones transparentes y presionados-01_29
+    21300060: botones transparentes y presionados-01_30
+    21300062: botones transparentes y presionados-01_31
+    21300064: botones transparentes y presionados-01_32
+    21300066: botones transparentes y presionados-01_33
+    21300068: botones transparentes y presionados-01_34
+    21300070: botones transparentes y presionados-01_35
+    21300072: botones transparentes y presionados-01_36
+    21300074: botones transparentes y presionados-01_37
+    21300076: botones transparentes y presionados-01_38
+    21300078: botones transparentes y presionados-01_39
+    21300080: botones transparentes y presionados-01_40
+    21300082: botones transparentes y presionados-01_41
+    21300084: botones transparentes y presionados-01_42
+    21300086: botones transparentes y presionados-01_43
+    21300088: botones transparentes y presionados-01_44
+    21300090: botones transparentes y presionados-01_45
+    21300092: botones transparentes y presionados-01_46
+    21300094: botones transparentes y presionados-01_47
+    21300096: botones transparentes y presionados-01_48
+    21300098: botones transparentes y presionados-01_49
+    21300100: botones transparentes y presionados-01_50
+    21300102: botones transparentes y presionados-01_51
+    21300104: botones transparentes y presionados-01_52
+    21300106: botones transparentes y presionados-01_53
+    21300108: botones transparentes y presionados-01_54
+    21300110: botones transparentes y presionados-01_55
+    21300112: botones transparentes y presionados-01_56
+    21300114: botones transparentes y presionados-01_57
+    21300116: botones transparentes y presionados-01_58
+    21300118: botones transparentes y presionados-01_59
+    21300120: botones transparentes y presionados-01_60
+    21300122: botones transparentes y presionados-01_61
+    21300124: botones transparentes y presionados-01_62
+    21300126: botones transparentes y presionados-01_63
+    21300128: botones transparentes y presionados-01_64
+    21300130: botones transparentes y presionados-01_65
+    21300132: botones transparentes y presionados-01_66
+    21300134: botones transparentes y presionados-01_67
+    21300136: botones transparentes y presionados-01_68
+    21300138: botones transparentes y presionados-01_69
+    21300140: botones transparentes y presionados-01_70
+    21300142: botones transparentes y presionados-01_71
+    21300144: botones transparentes y presionados-01_72
+    21300146: botones transparentes y presionados-01_73
+    21300148: botones transparentes y presionados-01_74
+    21300150: botones transparentes y presionados-01_75
+    21300152: botones transparentes y presionados-01_76
+    21300154: botones transparentes y presionados-01_77
+    21300156: botones transparentes y presionados-01_78
+    21300158: botones transparentes y presionados-01_79
+    21300160: botones transparentes y presionados-01_80
+    21300162: botones transparentes y presionados-01_81
+    21300164: botones transparentes y presionados-01_82
+    21300166: botones transparentes y presionados-01_83
+    21300168: botones transparentes y presionados-01_84
+    21300170: botones transparentes y presionados-01_85
+    21300172: botones transparentes y presionados-01_86
+    21300174: botones transparentes y presionados-01_87
+    21300176: botones transparentes y presionados-01_88
+    21300178: botones transparentes y presionados-01_89
+    21300180: botones transparentes y presionados-01_90
+    21300182: botones transparentes y presionados-01_91
+    21300184: botones transparentes y presionados-01_92
+    21300186: botones transparentes y presionados-01_93
+    21300188: botones transparentes y presionados-01_94
+    21300190: botones transparentes y presionados-01_95
+    21300192: botones transparentes y presionados-01_96
+    21300194: botones transparentes y presionados-01_97
+    21300196: botones transparentes y presionados-01_98
+    21300198: botones transparentes y presionados-01_99
+    21300200: botones transparentes y presionados-01_100
+    21300202: botones transparentes y presionados-01_101
+    21300204: botones transparentes y presionados-01_102
+    21300206: botones transparentes y presionados-01_103
+    21300208: botones transparentes y presionados-01_104
+    21300210: botones transparentes y presionados-01_105
+    21300212: botones transparentes y presionados-01_106
+    21300214: botones transparentes y presionados-01_107
+    21300216: botones transparentes y presionados-01_108
+    21300218: botones transparentes y presionados-01_109
+    21300220: botones transparentes y presionados-01_110
+    21300222: botones transparentes y presionados-01_111
+    21300224: botones transparentes y presionados-01_112
+    21300226: botones transparentes y presionados-01_113
+    21300228: botones transparentes y presionados-01_114
+    21300230: botones transparentes y presionados-01_115
+    21300232: botones transparentes y presionados-01_116
+    21300234: botones transparentes y presionados-01_117
+    21300236: botones transparentes y presionados-01_118
+    21300238: botones transparentes y presionados-01_119
+    21300240: botones transparentes y presionados-01_120
+    21300242: botones transparentes y presionados-01_121
+    21300244: botones transparentes y presionados-01_122
+    21300246: botones transparentes y presionados-01_123
+    21300248: botones transparentes y presionados-01_124
+    21300250: botones transparentes y presionados-01_125
+    21300252: botones transparentes y presionados-01_126
+    21300254: botones transparentes y presionados-01_127
+    21300256: botones transparentes y presionados-01_128
+    21300258: botones transparentes y presionados-01_129
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_0
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 6313
+        width: 200
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_1
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 6471
+        width: 288
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_2
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 6323
+        width: 221
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 6379
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_4
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 6113
+        width: 72
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_5
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 6353
+        width: 341
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_6
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 6087
+        width: 72
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_7
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 6385
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_8
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 6119
+        width: 72
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_9
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 6100
+        width: 361
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_10
+      rect:
+        serializedVersion: 2
+        x: 5011
+        y: 6090
+        width: 131
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 5817
+        width: 614
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_12
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 5866
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_13
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 5820
+        width: 138
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_14
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 5820
+        width: 141
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_15
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 6047
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_16
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 6047
+        width: 282
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_17
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 6047
+        width: 226
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_18
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 5702
+        width: 75
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_19
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 5679
+        width: 72
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_20
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 5709
+        width: 75
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_21
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 5820
+        width: 141
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_22
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 5801
+        width: 217
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_23
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 5971
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_24
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 5804
+        width: 89
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_25
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 5804
+        width: 89
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_26
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 5804
+        width: 89
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_27
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 5804
+        width: 90
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_28
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 5804
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_29
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 5804
+        width: 164
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_30
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 5801
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_31
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5702
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_32
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 5679
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_33
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 5709
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_34
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5333
+        width: 341
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_35
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 5065
+        width: 74
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_36
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 5333
+        width: 341
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_37
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 5065
+        width: 72
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_38
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 5379
+        width: 338
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_39
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 5111
+        width: 73
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_40
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 5236
+        width: 203
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_41
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 5394
+        width: 292
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_42
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 5246
+        width: 223
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_43
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 5321
+        width: 486
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_44
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 5196
+        width: 167
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_45
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 5295
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_46
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 5200
+        width: 167
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_47
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 5220
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_48
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 4766
+        width: 515
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_49
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 5252
+        width: 486
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_50
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4850
+        width: 568
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_51
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 5197
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_52
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 5013
+        width: 190
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_53
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 5013
+        width: 114
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_54
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 5010
+        width: 315
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_55
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 5016
+        width: 265
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_56
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 5145
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_57
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 5019
+        width: 164
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_58
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 5055
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_59
+      rect:
+        serializedVersion: 2
+        x: 5087
+        y: 4970
+        width: 226
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_60
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4655
+        width: 75
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_61
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 4655
+        width: 72
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_62
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 4701
+        width: 72
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_63
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 4970
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_64
+      rect:
+        serializedVersion: 2
+        x: 4710
+        y: 4970
+        width: 285
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_65
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 4881
+        width: 486
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_66
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 4724
+        width: 217
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_67
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 4894
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_68
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 4727
+        width: 88
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_69
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 4727
+        width: 88
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_70
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 4727
+        width: 88
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_71
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 4809
+        width: 486
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_72
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 4727
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_73
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 4727
+        width: 102
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_74
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 4763
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_75
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 4724
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_76
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4655
+        width: 341
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_77
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 4655
+        width: 341
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_78
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 4701
+        width: 339
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_79
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 4133
+        width: 204
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_80
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 4293
+        width: 292
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_81
+      rect:
+        serializedVersion: 2
+        x: 5132
+        y: 4142
+        width: 221
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4162
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_83
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 3896
+        width: 72
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_84
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 4146
+        width: 342
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_85
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 3880
+        width: 75
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_86
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 4175
+        width: 338
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_87
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 3906
+        width: 73
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_88
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 3936
+        width: 352
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_89
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 4195
+        width: 141
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_90
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3617
+        width: 558
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_91
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3968
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_92
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 4024
+        width: 367
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_93
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 3620
+        width: 601
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_94
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 3867
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_95
+      rect:
+        serializedVersion: 2
+        x: 5061
+        y: 4034
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_96
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 3867
+        width: 226
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_97
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3742
+        width: 174
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_98
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 3870
+        width: 282
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_99
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3486
+        width: 73
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_100
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 3469
+        width: 75
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_101
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 3798
+        width: 367
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_102
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 3496
+        width: 72
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_103
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 3620
+        width: 217
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_104
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 3791
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_105
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 3624
+        width: 89
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_106
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 3624
+        width: 90
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_107
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3532
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_108
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 3587
+        width: 367
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_109
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 3624
+        width: 85
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_110
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 3624
+        width: 164
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_111
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 3620
+        width: 128
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_112
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3486
+        width: 338
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_113
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 3469
+        width: 341
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_114
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3496
+        width: 339
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_115
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2445
+        width: 752
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_116
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2418
+        width: 748
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_117
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 2451
+        width: 752
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_118
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 3121
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_119
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 2855
+        width: 74
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_120
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 2445
+        width: 75
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_121
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 2566
+        width: 600
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_122
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 2445
+        width: 341
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_123
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1397
+        width: 748
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_124
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1397
+        width: 748
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_125
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1443
+        width: 749
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_126
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 228
+        width: 751
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_127
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 212
+        width: 749
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_128
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 238
+        width: 749
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: botones transparentes y presionados-01_129
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 271
+        width: 749
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

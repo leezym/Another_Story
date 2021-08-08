@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 9d3f19dd598cc6e4083adc872eb9b358
+timeCreated: 1474477308
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Annie_Rigg:Character1_Reference2
+    100004: Jimmy_Anim:Character1_Head
+    100006: Jimmy_Anim:Character1_Hips
+    100008: Jimmy_Anim:Character1_LeftArm
+    100010: Jimmy_Anim:Character1_LeftFoot
+    100012: Jimmy_Anim:Character1_LeftForeArm
+    100014: Jimmy_Anim:Character1_LeftHand
+    100016: Jimmy_Anim:Character1_LeftHandIndex1
+    100018: Jimmy_Anim:Character1_LeftHandIndex2
+    100020: Jimmy_Anim:Character1_LeftHandIndex3
+    100022: Jimmy_Anim:Character1_LeftHandIndex4
+    100024: Jimmy_Anim:Character1_LeftHandMiddle1
+    100026: Jimmy_Anim:Character1_LeftHandMiddle2
+    100028: Jimmy_Anim:Character1_LeftHandMiddle3
+    100030: Jimmy_Anim:Character1_LeftHandMiddle4
+    100032: Jimmy_Anim:Character1_LeftHandPinky1
+    100034: Jimmy_Anim:Character1_LeftHandPinky2
+    100036: Jimmy_Anim:Character1_LeftHandPinky3
+    100038: Jimmy_Anim:Character1_LeftHandPinky4
+    100040: Jimmy_Anim:Character1_LeftHandRing1
+    100042: Jimmy_Anim:Character1_LeftHandRing2
+    100044: Jimmy_Anim:Character1_LeftHandRing3
+    100046: Jimmy_Anim:Character1_LeftHandRing4
+    100048: Jimmy_Anim:Character1_LeftHandThumb1
+    100050: Jimmy_Anim:Character1_LeftHandThumb2
+    100052: Jimmy_Anim:Character1_LeftHandThumb3
+    100054: Jimmy_Anim:Character1_LeftHandThumb4
+    100056: Jimmy_Anim:Character1_LeftLeg
+    100058: Jimmy_Anim:Character1_LeftShoulder
+    100060: Jimmy_Anim:Character1_LeftToeBase
+    100062: Jimmy_Anim:Character1_LeftUpLeg
+    100064: Jimmy_Anim:Character1_Neck
+    100066: Jimmy_Anim:Character1_Reference
+    100068: Jimmy_Anim:Character1_RightArm
+    100070: Jimmy_Anim:Character1_RightFoot
+    100072: Jimmy_Anim:Character1_RightForeArm
+    100074: Jimmy_Anim:Character1_RightHand
+    100076: Jimmy_Anim:Character1_RightHandIndex1
+    100078: Jimmy_Anim:Character1_RightHandIndex2
+    100080: Jimmy_Anim:Character1_RightHandIndex3
+    100082: Jimmy_Anim:Character1_RightHandIndex4
+    100084: Jimmy_Anim:Character1_RightHandMiddle1
+    100086: Jimmy_Anim:Character1_RightHandMiddle2
+    100088: Jimmy_Anim:Character1_RightHandMiddle3
+    100090: Jimmy_Anim:Character1_RightHandMiddle4
+    100092: Jimmy_Anim:Character1_RightHandPinky1
+    100094: Jimmy_Anim:Character1_RightHandPinky2
+    100096: Jimmy_Anim:Character1_RightHandPinky3
+    100098: Jimmy_Anim:Character1_RightHandPinky4
+    100100: Jimmy_Anim:Character1_RightHandRing1
+    100102: Jimmy_Anim:Character1_RightHandRing2
+    100104: Jimmy_Anim:Character1_RightHandRing3
+    100106: Jimmy_Anim:Character1_RightHandRing4
+    100108: Jimmy_Anim:Character1_RightHandThumb1
+    100110: Jimmy_Anim:Character1_RightHandThumb2
+    100112: Jimmy_Anim:Character1_RightHandThumb3
+    100114: Jimmy_Anim:Character1_RightHandThumb4
+    100116: Jimmy_Anim:Character1_RightLeg
+    100118: Jimmy_Anim:Character1_RightShoulder
+    100120: Jimmy_Anim:Character1_RightToeBase
+    100122: Jimmy_Anim:Character1_RightUpLeg
+    100124: Jimmy_Anim:Character1_Spine
+    100126: Jimmy_Anim:Character1_Spine1
+    100128: Jimmy_Anim:Character1_Spine2
+    100130: Jimmy_Anim:joint1
+    100132: Jimmy_Anim:joint2
+    400000: //RootNode
+    400002: Annie_Rigg:Character1_Reference2
+    400004: Jimmy_Anim:Character1_Head
+    400006: Jimmy_Anim:Character1_Hips
+    400008: Jimmy_Anim:Character1_LeftArm
+    400010: Jimmy_Anim:Character1_LeftFoot
+    400012: Jimmy_Anim:Character1_LeftForeArm
+    400014: Jimmy_Anim:Character1_LeftHand
+    400016: Jimmy_Anim:Character1_LeftHandIndex1
+    400018: Jimmy_Anim:Character1_LeftHandIndex2
+    400020: Jimmy_Anim:Character1_LeftHandIndex3
+    400022: Jimmy_Anim:Character1_LeftHandIndex4
+    400024: Jimmy_Anim:Character1_LeftHandMiddle1
+    400026: Jimmy_Anim:Character1_LeftHandMiddle2
+    400028: Jimmy_Anim:Character1_LeftHandMiddle3
+    400030: Jimmy_Anim:Character1_LeftHandMiddle4
+    400032: Jimmy_Anim:Character1_LeftHandPinky1
+    400034: Jimmy_Anim:Character1_LeftHandPinky2
+    400036: Jimmy_Anim:Character1_LeftHandPinky3
+    400038: Jimmy_Anim:Character1_LeftHandPinky4
+    400040: Jimmy_Anim:Character1_LeftHandRing1
+    400042: Jimmy_Anim:Character1_LeftHandRing2
+    400044: Jimmy_Anim:Character1_LeftHandRing3
+    400046: Jimmy_Anim:Character1_LeftHandRing4
+    400048: Jimmy_Anim:Character1_LeftHandThumb1
+    400050: Jimmy_Anim:Character1_LeftHandThumb2
+    400052: Jimmy_Anim:Character1_LeftHandThumb3
+    400054: Jimmy_Anim:Character1_LeftHandThumb4
+    400056: Jimmy_Anim:Character1_LeftLeg
+    400058: Jimmy_Anim:Character1_LeftShoulder
+    400060: Jimmy_Anim:Character1_LeftToeBase
+    400062: Jimmy_Anim:Character1_LeftUpLeg
+    400064: Jimmy_Anim:Character1_Neck
+    400066: Jimmy_Anim:Character1_Reference
+    400068: Jimmy_Anim:Character1_RightArm
+    400070: Jimmy_Anim:Character1_RightFoot
+    400072: Jimmy_Anim:Character1_RightForeArm
+    400074: Jimmy_Anim:Character1_RightHand
+    400076: Jimmy_Anim:Character1_RightHandIndex1
+    400078: Jimmy_Anim:Character1_RightHandIndex2
+    400080: Jimmy_Anim:Character1_RightHandIndex3
+    400082: Jimmy_Anim:Character1_RightHandIndex4
+    400084: Jimmy_Anim:Character1_RightHandMiddle1
+    400086: Jimmy_Anim:Character1_RightHandMiddle2
+    400088: Jimmy_Anim:Character1_RightHandMiddle3
+    400090: Jimmy_Anim:Character1_RightHandMiddle4
+    400092: Jimmy_Anim:Character1_RightHandPinky1
+    400094: Jimmy_Anim:Character1_RightHandPinky2
+    400096: Jimmy_Anim:Character1_RightHandPinky3
+    400098: Jimmy_Anim:Character1_RightHandPinky4
+    400100: Jimmy_Anim:Character1_RightHandRing1
+    400102: Jimmy_Anim:Character1_RightHandRing2
+    400104: Jimmy_Anim:Character1_RightHandRing3
+    400106: Jimmy_Anim:Character1_RightHandRing4
+    400108: Jimmy_Anim:Character1_RightHandThumb1
+    400110: Jimmy_Anim:Character1_RightHandThumb2
+    400112: Jimmy_Anim:Character1_RightHandThumb3
+    400114: Jimmy_Anim:Character1_RightHandThumb4
+    400116: Jimmy_Anim:Character1_RightLeg
+    400118: Jimmy_Anim:Character1_RightShoulder
+    400120: Jimmy_Anim:Character1_RightToeBase
+    400122: Jimmy_Anim:Character1_RightUpLeg
+    400124: Jimmy_Anim:Character1_Spine
+    400126: Jimmy_Anim:Character1_Spine1
+    400128: Jimmy_Anim:Character1_Spine2
+    400130: Jimmy_Anim:joint1
+    400132: Jimmy_Anim:joint2
+    4300000: Annie_Rigg:Character1_Reference2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Annie_Rigg:Character1_Reference2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
